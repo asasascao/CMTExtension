@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveToExtension", "MoveToExtension\MoveToExtension.csproj", "{7E48611E-350A-48B8-8450-19C07EA5FCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTEInstaller", "MTEInstanaller\MTEInstaller.csproj", "{F353BA00-D369-44CE-99CA-98AA6FF46C64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7E48611E-350A-48B8-8450-19C07EA5FCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E48611E-350A-48B8-8450-19C07EA5FCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E48611E-350A-48B8-8450-19C07EA5FCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F353BA00-D369-44CE-99CA-98AA6FF46C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F353BA00-D369-44CE-99CA-98AA6FF46C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F353BA00-D369-44CE-99CA-98AA6FF46C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F353BA00-D369-44CE-99CA-98AA6FF46C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

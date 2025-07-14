@@ -70,8 +70,17 @@ regasm 不是内部或外部命令,也不是可运行的程序 问题 同安装
 
 ![alt text](img/3.png)
 
+安装器安装：
+    安装：双击打开MTEInstaller.exe，点击安装，等待安装成功
+    升级：双击打开MTEInstaller.exe，点击升级，等待安装跳出升级包选择框，选择版本包，等待安装成功
+    卸载：双击打开MTEInstaller.exe，点击安装，等待卸载成功
+    
+![alt text](img/7.png)
+![alt text](img/8.png)
+
+
 # 采用技术
-程序集注册 动态右键菜单
+程序集注册 动态右键菜单 SHFileOperation
 
 # 第三方依赖库
 SharpShell
@@ -79,3 +88,4 @@ SharpShell
 # 后期可优化方向
 日志
 常用文件夹支持
+网络
